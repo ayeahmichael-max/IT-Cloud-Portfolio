@@ -87,10 +87,3 @@ Each project listed below represents standalone repositories documenting live ar
   * **Signals:** Technical Communications, Diagnostic Reasoning, Customer Support Operations.
 
 ---
-
-## 🛠 Portfolio Standard Quality Controls
-Every repository linked in this portfolio follows an absolute documentation standard:
-1. **Scannable Context:** Explains the concrete real-world administrative problems the lab or project solves.
-2. **Topology Overviews:** Features visual architecture blueprints created via Packet Tracer or Draw.io.
-3. **Verified Evidence:** Contains annotated screenshots with critical metrics highlighted via specialized marking tools.
-4. **Resiliency Tracking:** Highlights a dedicated "Challenges & Diagnostic Troubleshooting" log detailing breaks, root-cause analyses, and solutions.
